@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**mario1996/mario1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+* My name is Mário Baldé and I'm a dedicated Software engineer with a passion for crafting innovative solutions. :man_technologist:
+* [My personal website.](https://www.mariobalde.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of interest
+* Javascript
+* React.js
+* Typescript
+* Next.js
+* GraphQL
